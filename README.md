@@ -40,4 +40,4 @@ Palm, fist, thumbs up, thumbs down, index pointing right, index pointing left an
 ![alt text](images/results.png)
 
 #### Performance Evalutaion:
-![alt text](images/Confusion%20matrix.png)
+![alt text](images/Confusionmatrix.png)
