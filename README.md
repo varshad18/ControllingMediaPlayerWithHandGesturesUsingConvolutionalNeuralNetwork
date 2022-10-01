@@ -3,7 +3,6 @@
 ## Kindly go through our Research Paper published by IEEE on this project for more information and cite it in your projects
 ## https://ieeexplore.ieee.org/document/9641567
 
-## Contact Me on Linkedin: https://www.linkedin.com/in/gayathri1462/
 
 ### A Web Application to control media player using Hand gestures (Using Streamlit)
 
@@ -17,8 +16,7 @@ The proposed system can control the media player from a distance using hand gest
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
 
-![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/cam%20page.png?raw=true)
-
+![alt text](images/cam page.png
 #### Web App link: 
 
 https://share.streamlit.io/gayathri1462/hand-gesture-recognition-streamlit/main/webapp.py
