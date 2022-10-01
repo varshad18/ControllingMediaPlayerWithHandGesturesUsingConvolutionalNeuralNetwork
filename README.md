@@ -22,24 +22,22 @@ The proposed system can control the media player from a distance using hand gest
 https://share.streamlit.io/gayathri1462/hand-gesture-recognition-streamlit/main/webapp.py
 
 #### System Design Flow: 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/design.png?raw=true.type" width="500" height="400">
+![alt text](images/design.png)
 
 #### Data collection and preprocessing using OpenCV: 
 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/data-collection.png?raw=true.type" width="500" height="400">
+![alt text](images/campage.png)
 
 **Gestures obtained after Data collection and preprocessing**:
 Palm, fist, thumbs up, thumbs down, index pointing right, index pointing left and no gesture (Left to right)
 
-![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/gestures.png?raw=true)
+![alt text](images/gestures.png)
 
 #### Architecture of trained CNN model: 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/CNNlayers.png?raw=true.type" width="300" height="300">
+![alt text](images/CNNlayers.png)
 
 #### Results: 
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/results.png?raw=true.type" width="400" height="400">
+![alt text](images/results.png)
 
 #### Performance Evalutaion:
-<img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/Confusion%20matrix.png?raw=true.type" width="400" height="400">
-
-
+![alt text](images/Confusion%20matrix.png)
