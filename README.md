@@ -16,7 +16,7 @@ The proposed system can control the media player from a distance using hand gest
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
 
-![alt text](images/cam page.png
+![alt text](images/cam page.png)
 #### Web App link: 
 
 https://share.streamlit.io/gayathri1462/hand-gesture-recognition-streamlit/main/webapp.py
